@@ -1,5 +1,5 @@
 # ANDREY KUROCHKIN
-Saint-Petersburg, Russia 198264 (open to relocate) | kurochkin.av@gmail.com | linkedin.com/in/kurochkin-andrey
+Saint-Petersburg, Russia 198264 (open to relocate) | kurochkin.av@gmail.com | linkedin.com/in/kurochkin-andrey | discord: krch(@andreykurochkin) | codewars: https://www.codewars.com/users/kurochkin.av
 
 ## Summary
 - **7+ years of experience in building systems using .NET C#**, both from scratch and diving into an existing codebase
@@ -47,3 +47,6 @@ Saint-Petersburg, Russia 198264 (open to relocate) | kurochkin.av@gmail.com | li
 Bachelor`s Degree in Electrical Engineering 2004-2009
 Saint-Petersburg Electrotechnical University "LETI"
 Department of Robotics and Automation of Production Systems
+
+## Code example
+`const multiply = (a, b) => a * b`
